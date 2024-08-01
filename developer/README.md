@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxjb2RlfGVufDB8fHx8MTcyMjUxNDQ3MXww&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
 # Welcome
 
 ## Project Quick Links
