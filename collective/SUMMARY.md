@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [Introduction to the Collective](README.md)

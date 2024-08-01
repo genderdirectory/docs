@@ -1,2 +1,2 @@
-# Page
+# Introduction to the Collective
 
