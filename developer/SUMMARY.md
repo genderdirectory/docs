@@ -11,3 +11,4 @@
 ## GENERAL
 
 * [General Notes](general/general-notes.md)
+* [Recommended Development Environment](general/recommended-development-environment.md)
