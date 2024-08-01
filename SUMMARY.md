@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Introduction](README.md)
-  * [Contributor Covenant Code of Conduct](introduction/contributor-covenant-code-of-conduct.md)
-  * [License](introduction/readme.md)
+* [Developer Documentation](README.md)
+  * [Contributor Covenant Code of Conduct](developer-documentation/contributor-covenant-code-of-conduct.md)
+  * [License](developer-documentation/readme.md)
