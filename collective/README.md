@@ -14,5 +14,8 @@ You can see our finances and contribute at [https://opencollective.com/genderdir
 
 ## Who can join the collective?
 
-Anyone who contributes to our mission is considered a collective member. This could include time spent working on items, a financial donation, or even advisory services.
+Anyone who contributes to our mission is considered a collective member. This could include working on items, a financial donation, or even advisory services.
 
+## Why was this collective and project created?
+
+For many years, various grassroots efforts have been made to compile lists of professionals who cater to the transgender community. This involves developing open-source software to create a website and managing its operations. The goal is to create a mobile-first, privacy-oriented, and internationalized website to serve the community globally. Our datasets will be made public and updated regularly, so even if this initiative fails, another team can carry out our work.
