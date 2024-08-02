@@ -1,6 +1,6 @@
 # Recommended Development Environment
 
-* Ubuntu 24.04 LTS or better
+* Ubuntu 24.04 LTS or Debian 12
 * Apache 2
 * PHP 8.2+
 * phpDocumentor
