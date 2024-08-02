@@ -6,5 +6,5 @@
 
 * Server Host:  genderdirectory.com:3306
 * Username: gendir\_development
-* Password:  Y099@4bqu
+* Password:  email [tech@genderdirectory.com](mailto:tech@genderdirectory.com) for password
 * Database:  gendir\_development
